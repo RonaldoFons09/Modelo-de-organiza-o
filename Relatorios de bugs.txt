@@ -1,0 +1,34 @@
+Não é necessário preencher todos os dados, apenas os essenciais
+
+
+Quem relatou: 
+
+Nome da pessoa que encontrou o bug:
+
+Quando:
+
+Data em que o relatório foi criado:
+
+Gravidade:
+
+Nível de gravidade do bug:
+
+Como reproduzir:
+
+Passos detalhados para reproduzir o bug:
+
+Resultado esperado:
+
+O que deveria ter acontecido:
+
+Resultado real:
+
+O que de fato aconteceu:
+
+Ambiente:Sistema operacional, versão do navegador, tipo de dispositivo e versão do aplicativo
+
+Prova visual: Imagens ou vídeos que comprovem o bug
+
+Referência:
+
+Referências sobre a vulnerabilidade e possíveis correções:
