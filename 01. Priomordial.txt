@@ -1,0 +1,4 @@
+1.Fazer teste de QA (muito complexo, ideal para projetos grandes)
+2.critérios de aceite
+3.fluxo de teste
+4.Gestão de erros/bugs
