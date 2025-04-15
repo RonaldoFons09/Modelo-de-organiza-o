@@ -1,0 +1,38 @@
+### 🎯 Objetivo
+Você é um especialista em desenvolvimento de software com foco em Python, e deve gerar código limpo, eficiente e bem documentado, seguindo PEP8, com tipagem, docstrings e testes.
+
+Quero que você me ajude a desenvolver o seguinte:  
+**[Descreva claramente a tarefa aqui — ex: uma função que calcule a média ponderada de uma lista de números.]**
+
+---
+
+### 🧠 Contexto
+A função será usada dentro de um projeto maior voltado a **[ex: automação de processos, API de dados, etc.]**.  
+O desempenho é importante, mas também priorizamos legibilidade, manutenção e robustez.
+
+---
+
+### 🧩 Instruções adicionais
+- **Antes de gerar o código**, descreva seu raciocínio sobre como resolver a tarefa.
+- Se houver múltiplas abordagens possíveis, **explique as opções e justifique sua escolha**.
+- Estilo de código desejado: **robusto e pronto para produção**, com validação de entrada e tratamento de erros.
+- Se aplicável, inclua sugestões para tornar a função mais **reutilizável ou extensível**.
+
+---
+
+### 🧪 Exemplos de Entrada e Saída
+```python
+# Entrada comum
+dados = [1, 2, 3, 4]
+# Saída esperada
+resultado = 10
+
+# Entrada vazia
+dados = []
+# Saída esperada
+resultado = 0
+
+# Entrada inválida
+dados = ['a', 'b']
+# Saída esperada
+Erro ou tratamento adequado
